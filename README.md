@@ -2,7 +2,7 @@
 
 ## About
 Online Tour Booking System User Interface Project.  
-[Live-Site](https://travel-guru-app-6d751.web.app)
+[Live-Site](https://travel-guri.web.app/)
 
 ## Features
    - User Can Choose a Tour.
